@@ -23,7 +23,7 @@ let localStorage = {
     enableWindowsTaskbarProgress: true,
     showLyricsTranslation: true,
     lyricsBackground: true,
-    minimizeToTray: false,
+    closeAppOption: 'ask',
     enableDiscordRichPresence: false,
     enableGlobalShortcut: true,
     showLibraryDefault: false,
